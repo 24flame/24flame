@@ -21,7 +21,7 @@ I'm Flame, a Developer from Germany. 🚀
   <a href="https://discord.com/users/444853236684292096">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="flame.github.io">
+  <a href="https://24flame.github.io">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
